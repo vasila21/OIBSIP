@@ -42,4 +42,4 @@ Random Class,
 
 Object-Oriented Programming (OOP),
 
-VS code.
+Visual Studio Code (VS Code).
