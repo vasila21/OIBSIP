@@ -49,9 +49,3 @@ Timer Class,
 Object-Oriented Programming (OOP),
 
 Visual Studio Code (VS Code).
-JDK 8 or Above
-Get smarter responses, upload files and images, and more.
-Log in
-Sign up for free
-
-We
