@@ -38,5 +38,5 @@ ArrayList Collection,
 
 OOP Concepts,
 
-VS code.
+Visual Studio Code (VS Code).
 
